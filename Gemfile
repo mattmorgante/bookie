@@ -6,6 +6,7 @@ gem 'rails', '4.2.1'
 gem 'awesome_print'
 gem 'omniauth'
 gem 'omniauth-facebook', '1.4.0'
+gem 'haml'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use SCSS for stylesheets
